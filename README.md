@@ -1,5 +1,5 @@
 # Machine_Learning_FloFie
-Repository for machine learning team.
+Everything about Machine Learning Part in FloFie App.
 
 ## Dataset
 We use dataset from tensorflow dataset named `tf_flower`. The dataset contains 3.670 files with 5 class. Class in the dataset are:
@@ -17,4 +17,7 @@ We use pre-trained and fine-tuning model. The pre-trained we use is `EfficientNe
 More info about `EfficientNetV2B1`: https://arxiv.org/abs/2104.00298.
 
 ## Deployment
-We use convert model to tflite cause its more easy to do.
+We use convert model to tflite cause its more easy to do. You can find our tflite model in https://drive.google.com/drive/folders/1dHInVtIIrqn0rwiHRWluVcPaXYMGfTdN?usp=sharing or in branch -> master -> flower.tflite
+
+## Additional 
+Please read Tutorial.md if you want to know about our model and our model project name is Flowers_EfficientNetV2B1.ipynb. 
